@@ -1,0 +1,14 @@
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\bin\Debug\net8.0\GenericBuild.exe
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\bin\Debug\net8.0\GenericBuild.deps.json
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\bin\Debug\net8.0\GenericBuild.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\bin\Debug\net8.0\GenericBuild.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\bin\Debug\net8.0\GenericBuild.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\refint\GenericBuild.dll
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\GenericBuild.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Masaüstü\C#\Works\GenericBuild\GenericBuild\obj\Debug\net8.0\ref\GenericBuild.dll
